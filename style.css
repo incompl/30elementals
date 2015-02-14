@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url(bg.jpg);
+  color: white;
+}
+
+h1, h2, h3 {
+  font-family: fantasy;
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2em;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+#content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1em;
+  background: url(bg2.jpg);
+}
+
+.hr {
+  text-align: center;
+  margin: 0 0 1em 0;
+}
+
+.blue {
+  color: red;
+}
